@@ -1,4 +1,4 @@
 package liskovsubstitution;
 
-public class ToDo {
+public class Substitution {
 }
